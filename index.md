@@ -13,11 +13,38 @@ Android & サーバーエンジニア & インフラエンジニアです。
 
 ## 言語
 
-Kotlin/Java/PHP/JavaScript
+Kotlin/Java/PHP/JavaScript/React.js/React Native/bash/jQuery/Python(Django)
 
 ## ライブラリ・フレームワーク
 
-Fuel PHP/Bootstrap
+- PHP
+  - 会社独自フレームワーク/Fuel PHP/WordPress/Bootstrap
+- Linux
+  - CentOS
+  - Debian・Ubuntu
+  - Postgresql・MySql・MariaDb
+  - Chef・Ansible
+  - Apache Httpd・Nginx
+  - Fluentd・rsyslog・FreeRadius・Postfix・Named
+  - GitLab(CE)・GItLab Runner
+  - OpenStack・KVM
+- 開発環境
+  - GitLab
+  - Vagrant
+  - Docker
+  - VirtualBox
+  - IntellijIdea
+  - Android Studio
+  - Visual Studio Code
+- クラウド
+  - AWS
+  - GCP
+  - Firebase
+- コミュニケーションツール
+  - Slack
+  - Discode
+  - ChatWork
+  - TeamHack
 
 # 開発実績
 
@@ -29,13 +56,15 @@ Fuel PHP/Bootstrap
   - バックエンド開発、フロントエンド開発。
 - [nitpick](http://nitpick.jp/) (Backend, Frondend)
   - バックエンド開発、フロントエンド開発を一人で担当。
+- [KAGO](https://www.kagotaxi.com/)(Backend, Frondend, Mobile App)
+  - 開発環境基盤構築、DevOps(GitlabCI・Ansible)構築を1人で担当。
+  - バックエンド開発、フロントエンド開発、Android・iOSアプリ(React Native)を3人のチームで開発。
 
 # SNS・ブログなど
 
 * [GitHub](https://github.com/toshi-click)
 * [Twitter](https://twitter.com/toshi_click)
 * [Facebook](https://www.facebook.com/click.toshi.3)
-* [Google+](https://plus.google.com/115987806831277972844/posts)
 * [LinkedIn](https://www.linkedin.com/in/toshiyuki-abe-78bb37142)
 * [Wantedly](https://www.wantedly.com/users/18247131)
 * [Qiita](https://qiita.com/toshi-click)
